@@ -1,0 +1,17 @@
+{
+	"manifest_version": 2,
+	"version": "1.0.0",
+	"name": "Breeze Scrollbar",
+	"description": "A scrollbar inspired by KDE Breeze.",
+	"icons": {
+		"128": "icons/128.png",
+		"48": "icons/48.png",
+		"16": "icons/16.png"
+	},
+	"content_scripts": [
+		{
+			"matches": ["<all_urls>"],
+			"css": ["content.css"]
+		}
+	]
+}
