@@ -4,6 +4,8 @@ A scrollbar inspired by KDE Breeze.
 
 Extension for Chrome.
 
+![Gif](http://i.imgur.com/9B7oa8m.gif)
+
 ## Installation
 
 1. [Download the latest version.](https://raw.githubusercontent.com/thesbros/breeze-scrollbar/master/extension.zip)
