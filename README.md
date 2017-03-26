@@ -8,6 +8,10 @@ Extension for Chrome.
 
 ## Installation
 
+[Available on userstyles.](https://userstyles.org/styles/139391/breeze-scrollbar)
+
+**Chrome Extension:**
+
 1. [Download the latest version.](https://raw.githubusercontent.com/thesbros/breeze-scrollbar/master/extension.zip)
 2. Go to the Extensions page.
 3. Enable "Developer mode".
